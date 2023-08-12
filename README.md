@@ -1,2 +1,2 @@
 # modelling-case-study
-Repository to hold my code for my mathematical modelling case study. Sorry if you are cheching this now, I will try and add all the code tonight.
+Unfortunately, there are too many files which are too large to upload to GitHub, but you can see the results in the paper on my website https://billybraith17.github.io
